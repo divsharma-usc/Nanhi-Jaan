@@ -1,0 +1,189 @@
+<resources>
+    <string name="app_name">Nanhi Jaan</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_disease_details">DiseaseDetailsActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+    </string>
+
+    // Symptoms
+    <string name="eng_symptoms">Symptoms</string>
+    <string name="hindi_symptoms">लक्षण</string>
+    <string name="punjabi_symptoms">ਲੱਛਣ</string>
+    <string name="bengali_symptoms">লক্ষণ</string>
+    <string name="tamil_symptoms">அறிகுறிகள்</string>
+    <string name="telugu_symptoms">లక్షణాలు</string>
+
+
+    //Prevention
+
+    <string name="eng_prevention">Prevention</string>
+    <string name="hindi_prevention">निवारण</string>
+    <string name="punjabi_prevention">ਰੋਕਥਾਮ</string>
+    <string name="bengali_prevention">প্রতিরোধ</string>
+    <string name="tamil_prevention">தடுப்பு</string>
+    <string name="telugu_prevention">నివారణ</string>
+
+    //Language
+
+    <string name="eng_language">Language</string>
+    <string name="hindi_language">भाषा</string>
+    <string name="punjabi_language">ਭਾਸ਼ਾ</string>
+    <string name="bengali_language">ভাষা</string>
+    <string name="tamil_language">மொழி</string>
+    <string name="telugu_language">భాషా</string>
+
+
+    //Parent suggestions
+
+    <string name="eng_suggestions">Parent Suggestions</string>
+    <string name="hindi_suggestions">माता-पिता का सुझाव</string>
+    <string name="punjabi_suggestions">ਮਾਪੇ ਸੁਝਾਅ</string>
+    <string name="bengali_suggestions">পিতামাতার পরামর্শ</string>
+    <string name="tamil_suggestions">பெற்றோர் பரிந்துரைகள்</string>
+    <string name="telugu_suggestions">తల్లిదండ్రుల సలహాలు</string>
+
+
+    //Contact
+
+    <string name="eng_contact">Contact</string>
+    <string name="hindi_contact">संपर्क करें</string>
+    <string name="punjabi_contact">ਸੰਪਰਕ ਕਰੋ</string>
+    <string name="bengali_contact">যোগাযোগ</string>
+    <string name="tamil_contact">தொடர்பு</string>
+    <string name="telugu_contact">సంప్రదించండి</string>
+
+
+    //Management
+
+    <string name="eng_management">Management</string>
+    <string name="hindi_management">प्रबंध</string>
+    <string name="punjabi_management">ਪ੍ਰਬੰਧਨ</string>
+    <string name="bengali_management">ম্যানেজমেন্ট</string>
+    <string name="tamil_management">மேலாண்மை</string>
+    <string name="telugu_management">మేనేజ్మెంట్</string>
+
+    //food
+
+    <string name="eng_food">Food</string>
+    <string name="hindi_food">भोजन</string>
+    <string name="punjabi_food">ਭੋਜਨ</string>
+    <string name="bengali_food">খাদ্য</string>
+    <string name="tamil_food">உணவு</string>
+    <string name="telugu_food">ఆహార</string>
+
+    //physical activity
+
+    <string name="eng_physical">Physical Activity</string>
+    <string name="hindi_physical">शारीरिक गतिविधि</string>
+    <string name="punjabi_physical">ਸਰੀਰਕ ਗਤੀਵਿਧੀ</string>
+    <string name="bengali_physical">শারীরিক কার্যকলাপ</string>
+    <string name="tamil_physical">உடல் செயல்பாடு</string>
+    <string name="telugu_physical">భౌతిక కార్యాచరణ</string>
+
+    //mental activity
+
+    <string name="eng_mental">Mental Activity</string>
+    <string name="hindi_mental">मानसिक गतिविधि</string>
+    <string name="punjabi_mental">ਮਾਨਸਿਕ ਗਤੀਵਿਧੀ</string>
+    <string name="bengali_mental">মানসিক কার্যকলাপ</string>
+    <string name="tamil_mental">மன செயல்பாடு</string>
+    <string name="telugu_mental">మానసిక కార్యాచరణ</string>
+
+    //Special Needs
+
+    <string name="eng_needs">Special Needs</string>
+    <string name="punjabi_needs">ਵਿਸ਼ੇਸ਼ ਲੋੜਾਂ</string>
+    <string name="hindi_needs">विशेष जरूरतों</string>
+    <string name="bengali_needs">বিশেষ প্রয়োজন</string>
+    <string name="tamil_needs">சிறப்பு தேவைகளை</string>
+    <string name="telugu_needs">विशेष जरूरतों</string>
+
+
+    //Introduction
+    <string name="eng_introduction">Introduction</string>
+    <string name="hindi_introduction">परिचय</string>
+    <string name="punjabi_introduction">ਜਾਣ ਪਛਾਣ</string>
+    <string name="bengali_introduction">ভূমিকা</string>
+    <string name="tamil_introduction">அறிமுகம்</string>
+    <string name="telugu_introduction">పరిచయం</string>
+
+
+    //Choose a language
+    <string name="eng_choose_language">Choose a language</string>
+    <string name="hindi_choose_language">एक भाषा चुनें</string>
+    <string name="punjabi_choose_language">ਇੱਕ ਭਾਸ਼ਾ ਚੁਣੋ</string>
+    <string name="bengali_choose_language">একটি ভাষা নির্বাচন করুন</string>
+    <string name="tamil_choose_language">ஒரு மொழியைத் தேர்வு செய்க</string>
+    <string name="telugu_choose_language">భాషను ఎంచుకోండి</string>
+
+
+    //Suggestions and feedback
+    <string name="eng_sugg">Suggestions and Feedback</string>
+    <string name="hindi_sugg">सुझाव और प्रतिक्रिया</string>
+    <string name="punjabi_sugg">ਸੁਝਾਅ ਅਤੇ ਸੁਝਾਅ</string>
+    <string name="bengali_sugg">পরামর্শ এবং মতামত</string>
+    <string name="tamil_sugg">ஆலோசனைகள் மற்றும் கருத்துகள்</string>
+    <string name="telugu_sugg">సలహాలు మరియు అభిప్రాయం</string>
+
+
+    //Submit
+    <string name="eng_submit">Submit</string>
+    <string name="hindi_submit">जमा करें</string>
+    <string name="punjabi_submit">ਜਮ੍ਹਾਂ ਕਰੋ</string>
+    <string name="bengali_submit">জমা দিন</string>
+    <string name="tamil_submit">சமர்ப்பி</string>
+    <string name="telugu_submit">సమర్పించండి</string>
+
+    // Made by team
+
+    <string name="eng_madeby">Made by team</string>
+    <string name="hindi_madeby">टीम द्वारा बनाया गया</string>
+    <string name="punjabi_madeby">ਟੀਮ ਦੁਆਰਾ ਬਣਾਇਆ ਗਿਆ</string>
+    <string name="bengali_madeby">দল দ্বারা তৈরি</string>
+    <string name="tamil_madeby">குழு மூலம் தயாரிக்கப்பட்டது</string>
+    <string name="telugu_madeby">జట్టు తయారు చేయబడింది</string>
+
+
+    // Nanhi Jaan
+    <string name="eng_nanhijaan">Nanhi Jaan</string>
+    <string name="hindi_nanhijaan">नन्ही जान</string>
+    <string name="punjabi_nanhijaan">ਨੰਨੀਂ ਜਾਨ</string>
+    <string name="bengali_nanhijaan">নানী জান</string>
+    <string name="tamil_nanhijaan">நானி ஜான்</string>
+    <string name="telugu_nanhijaan">నని జాన్</string>
+
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello Food!</string>
+    <string name="slide_1_desc">The easiest way to order food from your favourite restaurant!</string>
+
+    <string name="slide_2_title">Movie Tickets</string>
+    <string name="slide_2_desc">Book movie tickets for your family and friends!</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

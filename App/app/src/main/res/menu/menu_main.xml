@@ -1,0 +1,40 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.nanhijaan.MainActivity">
+    <item
+        android:id="@+id/action_language"
+        android:orderInCategory="100"
+        android:title="Language"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_map"
+        android:orderInCategory="100"
+        android:title="Nearby Hospitals"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_pills"
+        android:orderInCategory="100"
+        android:title="Order Pills"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_reminder"
+        android:orderInCategory="100"
+        android:title="Set Reminder"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_history"
+        android:orderInCategory="100"
+        android:title="Health History"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_parent"
+        android:orderInCategory="100"
+        android:title="Parent Suggestions"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_contact"
+        android:orderInCategory="100"
+        android:title="Contact us"
+        app:showAsAction="never" />
+</menu>
